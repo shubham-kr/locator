@@ -1,0 +1,10 @@
+﻿  lc_filter.c
+  lc_locatorApp.c
+  lc_parser.c
+  lc_position.c
+  lc_reports.c
+  lc_scenario.c
+  lc_signalMeas.c
+  lc_trace.c
+  Generating Code...
+  Locator.vcxproj -> E:\Users\skumar\workspace\My Projects\Visual Studio\Locator\project\windows\Debug\Locator.exe
